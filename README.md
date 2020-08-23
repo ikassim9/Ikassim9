@@ -1,4 +1,4 @@
-# Hi my name is Ismail, 👋
+# Hello, My name is Ismail, 👋
 
  ### 🔭 I’m currently working on a photo galary application
  ### 🌱 I’m currently learning android develoment
