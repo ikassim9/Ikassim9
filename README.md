@@ -1,7 +1,7 @@
 # Hello, My name is Ismail, 👋
 
- ### 🔭 I’m currently working on a photo galary application
- ### 🌱 I’m currently learning android develoment
+ ### 🔭 I’m currently working on a photo gallary application
+ ### 🌱 I’m currently learning android development
 ### 👯 I’m looking to collaborate on open source
 ### ⚡ Fun fact: If your program is not working, double check to make sure you are calling the method.
 
