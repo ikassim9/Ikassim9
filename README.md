@@ -1,5 +1,5 @@
 # Hello, My name is Ismail, 👋
-### 🌱 I’m currently learning android development
+### 🌱 I’m currently software development
 ### 👯 I’m looking to collaborate on open source
 ### ⚡ Fun fact: If your program is not working, double check to make sure you are calling the method.
 
