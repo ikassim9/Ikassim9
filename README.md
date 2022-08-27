@@ -1,6 +1,6 @@
 # Hello, My name is Ismail, 👋
 ### 🌱 I’m currently a software developer
-### 👯 I’m looking to collaborate on open source
+### 👯 My goal is to to collaborate to open source projects
 ### ⚡ Fun fact: If your program is not working, double check to make sure you are calling the method.
 
 
