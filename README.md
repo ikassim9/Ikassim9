@@ -1,5 +1,5 @@
 # Hello, My name is Ismail, 👋
-### 🌱 I’m currently a software developer
+### 🌱 I’m currently a Computer Science studnet
 ### 👯 My goal is to to collaborate to open source projects
 ### ⚡ Fun fact: If your program is not working, double check to make sure you are calling the method.
 
